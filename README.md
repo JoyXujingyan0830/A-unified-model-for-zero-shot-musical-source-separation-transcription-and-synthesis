@@ -55,7 +55,7 @@ pip install -r requirements.txt
 1. Download URMP Dataset from [URMP homepage](http://www2.ece.rochester.edu/projects/air/projects/URMP.html).
 2. Run the following command to generate your feature and annotations.
 ```
- python src/dataset/urmp/urmp_feature.py --dataset_dir=ur_unzipped_dataset_folder --feature_dir=urmp_hdf5s --process_num=1
+ python src/dataset/urmp/urmp_feature.py --dataset_dir=ur_unzipped_dataset_folder --feature_dir=dataset/hdf5s/urmp --process_num=1
 ```
 **NOTE** that `ur_unzipped_dataset_folder` is your unzipped data folder and it should contain directories of songs:
 > .
