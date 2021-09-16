@@ -12,7 +12,7 @@ from models.layers import (init_bn, LinearBlock2D, LinearBlock1D, ConvBlock, Dec
 from conf.models import *
 
 et = 1e-8
-
+# test
 
 def align(x, blocks_num):
 	"""

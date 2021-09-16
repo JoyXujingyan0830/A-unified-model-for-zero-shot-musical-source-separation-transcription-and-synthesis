@@ -19,3 +19,4 @@ src/analyze/draw_hQuery.py
 src/analyze/draw_instr_results.py
 src/analyze/draw_spec.py
 src/analyze/gradient_colors.py
+/.idea
